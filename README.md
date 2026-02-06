@@ -1,8 +1,10 @@
 
 <img width="1052" height="206" alt="image" src="https://github.com/user-attachments/assets/97358d6a-101c-48d8-be92-f24a745b0e58" />
 
----
-### SQL Operators Cheat Sheet
+Academic archived lessons & activities from Information Management courses (IM1 & IM2)
+
+
+### SQL Operators
 
 | Operator | Use Case | Example |
 |----------|----------|---------|
@@ -41,18 +43,7 @@ PERCENT_RANK() OVER (ORDER BY column)
 
 ---
 
-
-
-## 🔗 Additional Resources
-
-- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-- [SQLZoo Interactive Tutorials](https://sqlzoo.net/)
-- [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
----
-
-## 📊 Database Types Reference
+## Database Types Reference
 
 | Type | Description | Example |
 |------|-------------|---------|
@@ -62,9 +53,18 @@ PERCENT_RANK() OVER (ORDER BY column)
 | **Cloud** | Hosted in cloud environment | AWS RDS, Azure SQL |
 | **Hierarchical** | Tree-like parent-child | IBM IMS |
 
+
+
+
+##  Additional Resources
+
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQLZoo Interactive Tutorials](https://sqlzoo.net/)
+- [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+
+
 ---
-
-
 
 **Happy Learning! 🎓**
 
